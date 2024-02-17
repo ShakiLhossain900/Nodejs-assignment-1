@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/ShakiLhossain900/Nodejs-assignment-1/issues"
   },
-  "homepage": "https://github.com/ShakiLhossain900/Nodejs-assignment-1#readme"
+  "homepage": "https://github.com/ShakiLhossain900/Nodejs-assignment-1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
