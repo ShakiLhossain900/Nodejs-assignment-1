@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-assignement-1-solution-with-max",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShakiLhossain900/Nodejs-assignment-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShakiLhossain900/Nodejs-assignment-1/issues"
+  },
+  "homepage": "https://github.com/ShakiLhossain900/Nodejs-assignment-1#readme"
+}
